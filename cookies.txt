@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# Written by HTTrack Website Copier
+checkyourglasses.com	FALSE	/	TRUE	0	PHPSESSID	0440eaff74766cb98502bc97ee13e0c8
+#HttpOnly_.vimeo.com	TRUE	/	TRUE	1795114796	__cf_bm	K3j8K3KpCm7USp7JnOBLB6KGO2755H91.sXL.EeTneA-1795112996.4937603-1.0.1.1-2uhIhXrQkHUfPfkruQTh7aPVaJJD2zoAd09krNVqDr2DQN_cQv4sAPsJQ1UYEGsEAn93JztVW6g5AHzxUyuVC0Cj_595in7Tk_WNMDv5iAx6wVOUaYAmOzZF1ojLEKSx
+checkyourglasses.com	FALSE	/	TRUE	0	wordpress_test_cookie	WP%20Cookie%20check

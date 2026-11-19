@@ -1,0 +1,183 @@
+HTTrack3.51-0 launched on Thu, 19 Nov 2026 20:29:55 at https://checkyourglasses.com +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack/3.x; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://checkyourglasses.com -O1 "C:\My Web Sites\checkyourglasses.com" +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:30:36	Error: 	"Forbidden" (403) at link https://checkyourglasses.com/xmlrpc.php (from https://checkyourglasses.com/)
+20:31:06	Error: 	"Not Found" (404) at link https://checkyourglasses.com/wp-content/themes/clearmind/assets/images/header_bg.jpg (from https://checkyourglasses.com/)
+20:31:07	Error: 	"Forbidden" (403) at link https://checkyourglasses.com/xmlrpc.php?rsd (from https://checkyourglasses.com/)
+20:33:29	Warning: 	Moved Permanently for https://checkyourglasses.com/services/visual-therapy/
+20:33:29	Warning: 	File has moved from https://checkyourglasses.com/services/visual-therapy/ to https://checkyourglasses.com/vision-health-tools/visual-therapy/
+20:33:29	Error: 	"Not Found" (404) at link https://checkyourglasses.com/services/check-your-glasses/ (from https://checkyourglasses.com/)
+20:33:29	Warning: 	Moved Permanently for https://checkyourglasses.com/services/orthoptic-exercises/
+20:33:29	Warning: 	File has moved from https://checkyourglasses.com/services/orthoptic-exercises/ to https://checkyourglasses.com/vision-health-tools/orthoptic-exercises/
+20:33:29	Error: 	"Not Found" (404) at link https://checkyourglasses.com/cdn-cgi/l/email-protection (from https://checkyourglasses.com/)
+20:33:29	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Facebook&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2F not scanned (follow robots meta tag)
+20:33:29	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2F not scanned (follow robots meta tag)
+20:33:30	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2F not scanned (follow robots meta tag)
+20:33:30	Error: 	"Not Found" (404) at link https://checkyourglasses.com/jquery-swiper.js (from https://checkyourglasses.com/)
+20:33:30	Error: 	"Not Found" (404) at link https://checkyourglasses.com/contact-form-7.js (from https://checkyourglasses.com/)
+20:33:30	Error: 	"Not Found" (404) at link https://checkyourglasses.com/cherry-handler-js.js (from https://checkyourglasses.com/)
+20:33:30	Error: 	"Not Found" (404) at link https://checkyourglasses.com/magnific-popup.js (from https://checkyourglasses.com/)
+20:33:30	Error: 	"Not Found" (404) at link https://checkyourglasses.com/cherry-projects-single-scripts.js (from https://checkyourglasses.com/)
+20:33:30	Error: 	"Not Found" (404) at link https://checkyourglasses.com/cherry-post-formats.js (from https://checkyourglasses.com/)
+20:33:30	Error: 	"Not Found" (404) at link https://checkyourglasses.com/cherry-popups-scripts.js (from https://checkyourglasses.com/)
+20:33:39	Error: 	"Not Found" (404) at link https://checkyourglasses.com/+http:/www.google.com/bot.html (from https://checkyourglasses.com/wp-content/cache/wpfc-minified/qut816ie/6ep9i.js)
+20:33:39	Warning: 	Moved Permanently for https://checkyourglasses.com/?p=8178
+20:33:39	Warning: 	File has moved from https://checkyourglasses.com/?p=8178 to https://checkyourglasses.com/useful-tips/
+20:33:42	Warning: 	Moved Permanently for https://checkyourglasses.com/useful-tips/checkyourglasses.com/useful-tips/kids-and-adults/
+20:33:42	Warning: 	File has moved from https://checkyourglasses.com/useful-tips/checkyourglasses.com/useful-tips/kids-and-adults/ to https://checkyourglasses.com/useful-tips/kids-and-adults/
+20:33:42	Warning: 	Moved Permanently for https://checkyourglasses.com/useful-tips/checkyourglasses.com/useful-tips/adults-over-45/
+20:33:42	Warning: 	File has moved from https://checkyourglasses.com/useful-tips/checkyourglasses.com/useful-tips/adults-over-45/ to https://checkyourglasses.com/useful-tips/adults-over-45/
+20:33:42	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Facebook&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fuseful-tips%2F not scanned (follow robots meta tag)
+20:33:42	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fuseful-tips%2F not scanned (follow robots meta tag)
+20:33:42	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fuseful-tips%2F not scanned (follow robots meta tag)
+20:33:42	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/jquery-swiper.js (from https://checkyourglasses.com/useful-tips/)
+20:33:42	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/contact-form-7.js (from https://checkyourglasses.com/useful-tips/)
+20:33:42	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/cherry-handler-js.js (from https://checkyourglasses.com/useful-tips/)
+20:33:42	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/magnific-popup.js (from https://checkyourglasses.com/useful-tips/)
+20:33:42	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/cherry-projects-single-scripts.js (from https://checkyourglasses.com/useful-tips/)
+20:33:42	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/cherry-post-formats.js (from https://checkyourglasses.com/useful-tips/)
+20:33:42	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/cherry-popups-scripts.js (from https://checkyourglasses.com/useful-tips/)
+20:33:42	Warning: 	Moved Permanently for https://checkyourglasses.com/?p=8189
+20:33:42	Warning: 	File has moved from https://checkyourglasses.com/?p=8189 to https://checkyourglasses.com/useful-tips/kids/
+20:33:42	Error: 	"Payment Required" (402) at link ld-wp.template-help.com/wordpress_prod-21259/v1/wp-content/uploads/2017/11/about-img2.png (from https://checkyourglasses.com/useful-tips/kids/)
+20:33:51	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Facebook&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fuseful-tips%2Fkids%2F not scanned (follow robots meta tag)
+20:33:51	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fuseful-tips%2Fkids%2F not scanned (follow robots meta tag)
+20:33:51	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fuseful-tips%2Fkids%2F not scanned (follow robots meta tag)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/kids/jquery-swiper.js (from https://checkyourglasses.com/useful-tips/kids/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/kids/contact-form-7.js (from https://checkyourglasses.com/useful-tips/kids/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/kids/cherry-handler-js.js (from https://checkyourglasses.com/useful-tips/kids/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/kids/magnific-popup.js (from https://checkyourglasses.com/useful-tips/kids/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/kids/cherry-projects-single-scripts.js (from https://checkyourglasses.com/useful-tips/kids/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/kids/cherry-post-formats.js (from https://checkyourglasses.com/useful-tips/kids/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/kids/cherry-popups-scripts.js (from https://checkyourglasses.com/useful-tips/kids/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/kids/clearmind-theme-script.js (from https://checkyourglasses.com/useful-tips/kids/)
+20:33:51	Warning: 	Moved Permanently for https://checkyourglasses.com/?p=8201
+20:33:51	Warning: 	File has moved from https://checkyourglasses.com/?p=8201 to https://checkyourglasses.com/useful-tips/kids-and-adults/
+20:33:51	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Facebook&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fuseful-tips%2Fkids-and-adults%2F not scanned (follow robots meta tag)
+20:33:51	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fuseful-tips%2Fkids-and-adults%2F not scanned (follow robots meta tag)
+20:33:51	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fuseful-tips%2Fkids-and-adults%2F not scanned (follow robots meta tag)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/kids-and-adults/jquery-swiper.js (from https://checkyourglasses.com/useful-tips/kids-and-adults/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/kids-and-adults/contact-form-7.js (from https://checkyourglasses.com/useful-tips/kids-and-adults/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/kids-and-adults/cherry-handler-js.js (from https://checkyourglasses.com/useful-tips/kids-and-adults/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/kids-and-adults/magnific-popup.js (from https://checkyourglasses.com/useful-tips/kids-and-adults/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/kids-and-adults/cherry-projects-single-scripts.js (from https://checkyourglasses.com/useful-tips/kids-and-adults/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/kids-and-adults/cherry-post-formats.js (from https://checkyourglasses.com/useful-tips/kids-and-adults/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/kids-and-adults/cherry-popups-scripts.js (from https://checkyourglasses.com/useful-tips/kids-and-adults/)
+20:33:51	Warning: 	Moved Permanently for https://checkyourglasses.com/?p=8212
+20:33:51	Warning: 	File has moved from https://checkyourglasses.com/?p=8212 to https://checkyourglasses.com/useful-tips/adults-over-45/
+20:33:51	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Facebook&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fuseful-tips%2Fadults-over-45%2F not scanned (follow robots meta tag)
+20:33:51	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fuseful-tips%2Fadults-over-45%2F not scanned (follow robots meta tag)
+20:33:51	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fuseful-tips%2Fadults-over-45%2F not scanned (follow robots meta tag)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/adults-over-45/jquery-swiper.js (from https://checkyourglasses.com/useful-tips/adults-over-45/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/adults-over-45/contact-form-7.js (from https://checkyourglasses.com/useful-tips/adults-over-45/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/adults-over-45/cherry-handler-js.js (from https://checkyourglasses.com/useful-tips/adults-over-45/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/adults-over-45/magnific-popup.js (from https://checkyourglasses.com/useful-tips/adults-over-45/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/adults-over-45/cherry-projects-single-scripts.js (from https://checkyourglasses.com/useful-tips/adults-over-45/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/adults-over-45/cherry-post-formats.js (from https://checkyourglasses.com/useful-tips/adults-over-45/)
+20:33:51	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/adults-over-45/cherry-popups-scripts.js (from https://checkyourglasses.com/useful-tips/adults-over-45/)
+20:33:51	Warning: 	Moved Permanently for https://checkyourglasses.com/?p=8223
+20:33:51	Warning: 	File has moved from https://checkyourglasses.com/?p=8223 to https://checkyourglasses.com/vision-health-tools/
+20:33:51	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Facebook&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fvision-health-tools%2F not scanned (follow robots meta tag)
+20:33:52	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fvision-health-tools%2F not scanned (follow robots meta tag)
+20:33:52	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fvision-health-tools%2F not scanned (follow robots meta tag)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/jquery-swiper.js (from https://checkyourglasses.com/vision-health-tools/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/contact-form-7.js (from https://checkyourglasses.com/vision-health-tools/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/cherry-handler-js.js (from https://checkyourglasses.com/vision-health-tools/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/magnific-popup.js (from https://checkyourglasses.com/vision-health-tools/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/cherry-projects-single-scripts.js (from https://checkyourglasses.com/vision-health-tools/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/cherry-post-formats.js (from https://checkyourglasses.com/vision-health-tools/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/cherry-popups-scripts.js (from https://checkyourglasses.com/vision-health-tools/)
+20:33:52	Warning: 	Moved Permanently for https://checkyourglasses.com/?p=8235
+20:33:52	Warning: 	File has moved from https://checkyourglasses.com/?p=8235 to https://checkyourglasses.com/vision-health-tools/visual-therapy/
+20:33:52	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Facebook&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fvision-health-tools%2Fvisual-therapy%2F not scanned (follow robots meta tag)
+20:33:52	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fvision-health-tools%2Fvisual-therapy%2F not scanned (follow robots meta tag)
+20:33:52	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fvision-health-tools%2Fvisual-therapy%2F not scanned (follow robots meta tag)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/visual-therapy/jquery-swiper.js (from https://checkyourglasses.com/vision-health-tools/visual-therapy/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/visual-therapy/contact-form-7.js (from https://checkyourglasses.com/vision-health-tools/visual-therapy/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/visual-therapy/cherry-handler-js.js (from https://checkyourglasses.com/vision-health-tools/visual-therapy/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/visual-therapy/magnific-popup.js (from https://checkyourglasses.com/vision-health-tools/visual-therapy/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/visual-therapy/cherry-projects-single-scripts.js (from https://checkyourglasses.com/vision-health-tools/visual-therapy/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/visual-therapy/cherry-post-formats.js (from https://checkyourglasses.com/vision-health-tools/visual-therapy/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/visual-therapy/cherry-popups-scripts.js (from https://checkyourglasses.com/vision-health-tools/visual-therapy/)
+20:33:52	Warning: 	Moved Permanently for https://checkyourglasses.com/?p=8243
+20:33:52	Warning: 	File has moved from https://checkyourglasses.com/?p=8243 to https://checkyourglasses.com/vision-health-tools/self-check-tools/
+20:33:52	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Facebook&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fvision-health-tools%2Fself-check-tools%2F not scanned (follow robots meta tag)
+20:33:52	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fvision-health-tools%2Fself-check-tools%2F not scanned (follow robots meta tag)
+20:33:52	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fvision-health-tools%2Fself-check-tools%2F not scanned (follow robots meta tag)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/self-check-tools/jquery-swiper.js (from https://checkyourglasses.com/vision-health-tools/self-check-tools/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/self-check-tools/contact-form-7.js (from https://checkyourglasses.com/vision-health-tools/self-check-tools/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/self-check-tools/cherry-handler-js.js (from https://checkyourglasses.com/vision-health-tools/self-check-tools/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/self-check-tools/magnific-popup.js (from https://checkyourglasses.com/vision-health-tools/self-check-tools/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/self-check-tools/cherry-projects-single-scripts.js (from https://checkyourglasses.com/vision-health-tools/self-check-tools/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/self-check-tools/cherry-post-formats.js (from https://checkyourglasses.com/vision-health-tools/self-check-tools/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/self-check-tools/cherry-popups-scripts.js (from https://checkyourglasses.com/vision-health-tools/self-check-tools/)
+20:33:52	Warning: 	Moved Permanently for https://checkyourglasses.com/?p=8254
+20:33:52	Warning: 	File has moved from https://checkyourglasses.com/?p=8254 to https://checkyourglasses.com/vision-health-tools/orthoptic-exercises/
+20:33:52	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Facebook&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fvision-health-tools%2Forthoptic-exercises%2F not scanned (follow robots meta tag)
+20:33:52	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fvision-health-tools%2Forthoptic-exercises%2F not scanned (follow robots meta tag)
+20:33:52	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fvision-health-tools%2Forthoptic-exercises%2F not scanned (follow robots meta tag)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/orthoptic-exercises/jquery-swiper.js (from https://checkyourglasses.com/vision-health-tools/orthoptic-exercises/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/orthoptic-exercises/contact-form-7.js (from https://checkyourglasses.com/vision-health-tools/orthoptic-exercises/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/orthoptic-exercises/cherry-handler-js.js (from https://checkyourglasses.com/vision-health-tools/orthoptic-exercises/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/orthoptic-exercises/magnific-popup.js (from https://checkyourglasses.com/vision-health-tools/orthoptic-exercises/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/orthoptic-exercises/cherry-projects-single-scripts.js (from https://checkyourglasses.com/vision-health-tools/orthoptic-exercises/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/orthoptic-exercises/cherry-post-formats.js (from https://checkyourglasses.com/vision-health-tools/orthoptic-exercises/)
+20:33:52	Error: 	"Not Found" (404) at link https://checkyourglasses.com/vision-health-tools/orthoptic-exercises/cherry-popups-scripts.js (from https://checkyourglasses.com/vision-health-tools/orthoptic-exercises/)
+20:33:52	Warning: 	Moved Permanently for https://checkyourglasses.com/?p=8268
+20:33:52	Warning: 	File has moved from https://checkyourglasses.com/?p=8268 to https://checkyourglasses.com/faqs/
+20:33:52	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Facebook&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Ffaqs%2F not scanned (follow robots meta tag)
+20:33:53	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Ffaqs%2F not scanned (follow robots meta tag)
+20:33:53	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Ffaqs%2F not scanned (follow robots meta tag)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/faqs/jquery-swiper.js (from https://checkyourglasses.com/faqs/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/faqs/contact-form-7.js (from https://checkyourglasses.com/faqs/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/faqs/cherry-handler-js.js (from https://checkyourglasses.com/faqs/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/faqs/magnific-popup.js (from https://checkyourglasses.com/faqs/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/faqs/cherry-projects-single-scripts.js (from https://checkyourglasses.com/faqs/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/faqs/cherry-post-formats.js (from https://checkyourglasses.com/faqs/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/faqs/cherry-popups-scripts.js (from https://checkyourglasses.com/faqs/)
+20:33:53	Warning: 	Moved Permanently for https://checkyourglasses.com/?p=8283
+20:33:53	Warning: 	File has moved from https://checkyourglasses.com/?p=8283 to https://checkyourglasses.com/about-us/
+20:33:53	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Facebook&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fabout-us%2F not scanned (follow robots meta tag)
+20:33:53	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fabout-us%2F not scanned (follow robots meta tag)
+20:33:53	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fabout-us%2F not scanned (follow robots meta tag)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/about-us/jquery-swiper.js (from https://checkyourglasses.com/about-us/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/about-us/contact-form-7.js (from https://checkyourglasses.com/about-us/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/about-us/cherry-handler-js.js (from https://checkyourglasses.com/about-us/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/about-us/magnific-popup.js (from https://checkyourglasses.com/about-us/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/about-us/cherry-projects-single-scripts.js (from https://checkyourglasses.com/about-us/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/about-us/cherry-post-formats.js (from https://checkyourglasses.com/about-us/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/about-us/cherry-popups-scripts.js (from https://checkyourglasses.com/about-us/)
+20:33:53	Warning: 	Moved Permanently for https://checkyourglasses.com/?p=1363
+20:33:53	Warning: 	File has moved from https://checkyourglasses.com/?p=1363 to https://checkyourglasses.com/contact/
+20:33:53	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Facebook&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fcontact%2F not scanned (follow robots meta tag)
+20:33:53	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fcontact%2F not scanned (follow robots meta tag)
+20:33:53	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fcontact%2F not scanned (follow robots meta tag)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/contact/jquery-swiper.js (from https://checkyourglasses.com/contact/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/contact/contact-form-7.js (from https://checkyourglasses.com/contact/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/contact/cherry-handler-js.js (from https://checkyourglasses.com/contact/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/contact/magnific-popup.js (from https://checkyourglasses.com/contact/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/contact/cherry-projects-single-scripts.js (from https://checkyourglasses.com/contact/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/contact/cherry-post-formats.js (from https://checkyourglasses.com/contact/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/contact/cherry-popups-scripts.js (from https://checkyourglasses.com/contact/)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/-negative.svg (from https://checkyourglasses.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.7)
+20:33:53	Error: 	"Not Found" (404) at link https://checkyourglasses.com/useful-tips/+http:/www.google.com/bot.html (from https://checkyourglasses.com/wp-content/cache/wpfc-minified/7o0zbk1c/6ih4k.js)
+20:34:00	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Facebook&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fwp-login.php%3Faction%3Dregister not scanned (follow robots meta tag)
+20:34:00	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fwp-login.php%3Faction%3Dregister not scanned (follow robots meta tag)
+20:34:00	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fwp-login.php%3Faction%3Dregister not scanned (follow robots meta tag)
+20:34:02	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Facebook&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fwp-login.php not scanned (follow robots meta tag)
+20:34:02	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fwp-login.php not scanned (follow robots meta tag)
+20:34:02	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fwp-login.php not scanned (follow robots meta tag)
+20:34:03	Warning: 	Found for https://checkyourglasses.com/wp-admin/
+20:34:03	Warning: 	File has moved from https://checkyourglasses.com/wp-admin/ to https://checkyourglasses.com/wp-login.php?redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fwp-admin%2F&reauth=1
+20:34:05	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Facebook&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fwp-admin%2F%26reauth%3D1 not scanned (follow robots meta tag)
+20:34:05	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fwp-admin%2F%26reauth%3D1 not scanned (follow robots meta tag)
+20:34:05	Warning: 	Link https://checkyourglasses.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fwp-admin%2F%26reauth%3D1 not scanned (follow robots meta tag)
+20:34:05	Error: 	"Not Found" (404) at link https://checkyourglasses.com/wp-admin/&reauth=1 (from https://checkyourglasses.com/wp-login.php?redirect_to=https%3A%2F%2Fcheckyourglasses.com%2Fwp-admin%2F%26reauth=1)
+
+HTTrack Website Copier/3.51-0 mirror complete in 4 minutes 10 seconds : 364 links scanned, 252 files written (23698690 bytes overall) [20765986 bytes received at 83063 bytes/sec], 16186029 bytes transferred using HTTP compression in 265 files, ratio 23%, 18.5 requests per connection
+(95 errors, 77 warnings, 0 messages)
